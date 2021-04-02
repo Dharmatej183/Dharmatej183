@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dharmatej183
+- 👋 Hi, I’m @Dharmateja_vaka
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python, machine learning and deep learning
 
